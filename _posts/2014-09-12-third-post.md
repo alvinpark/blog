@@ -3,6 +3,7 @@ title: Third Post
 author: Chris
 layout: post
 icon: fa-lightbulb-o
+categories: AI
 ---
 See the icon?
 
